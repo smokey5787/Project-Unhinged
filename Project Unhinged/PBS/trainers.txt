@@ -1,0 +1,277 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = I thought bonsly was a grass type!
+Pokemon = BULBASAUR,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Tarzan,Tarzan]
+Items = SUPERPOTION
+LoseText = Very good.
+Pokemon = MANKEY,12
+    Gender = male
+Pokemon = AIPOM,14
+    Gender = female
+Pokemon = CHIMCHAR,13
+    Item = SITRUSBERRY
+    Gender = male
+Pokemon = GROOKEY,14
+    Gender = male
+Pokemon = ORANGURU,13
+    Gender = female
+Pokemon = ZARUDE,15
+    Gender = male
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = WEEPINBELL,21
+    Shadow = true
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = true
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[PROFESSOR_Spooky,Spooky]
+LoseText = Hmm.
+Pokemon = DITTO,25
+Pokemon = DITTO,25
+Pokemon = DITTO,25
+Pokemon = DITTO,25
+Pokemon = DITTO,25
+Pokemon = DITTO,25
+#-------------------------------
+[JUNGLE_BOY,Jim]
+LoseText = ...
+Pokemon = BULBASAUR,10
+#-------------------------------
+[JUNGLE_BOY,Harry]
+LoseText = ...
+Pokemon = ODDISH,9
+Pokemon = BELLSPROUT,10
+#-------------------------------
+[JUNGLE_BOY,Jerry]
+LoseText = ...
+Pokemon = HOPPIP,9
+Pokemon = SUNKERN,10
+#-------------------------------
+[JUNGLE_BOY,Dave]
+LoseText = ...
+Pokemon = SEEDOT,9
+Pokemon = PINECO,10
+#-------------------------------
+[JUNGLE_BOY,Tony]
+LoseText = ...
+Pokemon = LOTAD,9
+Pokemon = HOPPIP,10
+#-------------------------------
+[JUNGLE_BOY,Bobby]
+LoseText = ...
+Pokemon = KAKUNA,9
+Pokemon = BUTTERFREE,10
+#-------------------------------
+[YOUNGSTER,Andy]
+LoseText = Man, I thought you would be easy.
+Pokemon = ROCKRUFF,6
+Pokemon = RATTATA,6
+#-------------------------------
+[CUEBALL,Nobby]
+LoseText = Why can't I ever win?
+Pokemon = SCRAGGY,7
+Pokemon = GRIMER,6
+#-------------------------------
+[HIKER,Hubert]
+LoseText = I crumbled.
+Pokemon = NACLI,8
+Pokemon = HIPPOPOTAS,9
+#-------------------------------
+[YOUNGSTER,Dan]
+LoseText = Man, I thought you would be easy.
+Pokemon = SHINX,6
+Pokemon = RATTATA,6
+#-------------------------------
+[TRAINER_Pascoe,Pascoe]
+Items = FULLRESTORE
+LoseText = Don't forget to check out my other music.
+Pokemon = AZUMARILL,15
+Pokemon = LOPUNNY,15
+Pokemon = DIGGERSBY,15
+Pokemon = CINDERACE,15
+Pokemon = EXPLOUD,15
+Pokemon = MAGEARNA,15
+#-------------------------------
+[HIKER,Henry]
+LoseText = I crumbled.
+Pokemon = NACLI,8
+Pokemon = GEODUDE,9
+#-------------------------------
+[HIKER,Harold]
+LoseText = I crumbled.
+Pokemon = ONIX,8
+Pokemon = GEODUDE,9
+Pokemon = RHYHORN,9
+#-------------------------------
+[HIKER,Heronimous]
+LoseText = I crumbled.
+Pokemon = ROLYCOLY,8
+Pokemon = GEODUDE,9
+Pokemon = NACLI,9
+#-------------------------------
+[HIKER,Harry]
+LoseText = I crumbled.
+Pokemon = ROLYCOLY,8
+Pokemon = LARVITAR,9
+Pokemon = GLIMMET,9
+#-------------------------------
+[HIKER,Horatio]
+LoseText = I crumbled.
+Pokemon = NUMEL,8
+Pokemon = LARVITAR,9
+Pokemon = ONIX,9
+#-------------------------------
+[HIKER,Hugh]
+LoseText = I crumbled.
+Pokemon = TORKOAL,8
+Pokemon = GEODUDE,9
+#-------------------------------
+[SCIENTIST,Mark]
+LoseText = I only know the theory.
+Pokemon = MAGNEMITE,20
+Pokemon = VOLTORB,20
+Pokemon = KLINK,20
+#-------------------------------
+[SCIENTIST,Edward]
+LoseText = I can win in simulations.
+Pokemon = PORYGON,20
+Pokemon = ELGYEM,20
+Pokemon = TRUBBISH,20
+#-------------------------------
+[SCIENTIST,Newton]
+LoseText = Hypothisis Incorrect.
+Pokemon = KOFFING,20
+Pokemon = SOLOSIS,20
+Pokemon = VAROOM,20
+#-------------------------------
+[SCIENTIST,Galilleo]
+LoseText = I must recalculate.
+Pokemon = BELDUM,20
+Pokemon = ABRA,20
+Pokemon = GRUBBIN,20
+#-------------------------------
+[SCIENTIST,Billy]
+LoseText = I never wanted to do this.
+Pokemon = GULPIN,20
+Pokemon = GRIMER,20
+Pokemon = TRUBBISH,20
+#-------------------------------
+[SCIENTIST,Donald]
+LoseText = Well I tried.
+Pokemon = ABRA,20
+Pokemon = BELDUM,20
+Pokemon = MUSHARNA,20
+#-------------------------------
+[JUNGLE_BOY,Thomas]
+LoseText = ...
+Pokemon = COTTONEE,10
+Pokemon = HOOTHOOT,11
+#-------------------------------
+[JUNGLE_BOY,Hans]
+LoseText = ...
+Pokemon = PIKIPEK,10
+Pokemon = GIRAFARIG,11
+#-------------------------------
+[JUNGLE_BOY,Brian]
+LoseText = ...
+Pokemon = DEWPIDER,10
+Pokemon = PARAS,11
+Pokemon = PINSIR,12
+#-------------------------------
+[JUNGLE_BOY,Simon]
+LoseText = ...
+Pokemon = SPINARAK,10
+Pokemon = ROOKIDEE,11
+Pokemon = SCYTHER,12

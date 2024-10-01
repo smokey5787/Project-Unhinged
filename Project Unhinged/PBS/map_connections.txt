@@ -1,0 +1,146 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Lappet Town (2) - Safari Zone outside (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone outside (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# The Last Safe Place (22) - Route 1 (43)
+22,North,1,43,South,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau outside (35)
+31,West,0,35,East,10
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Route 1 (43) - Forest Town (78)
+43,North,64,78,South,0
+# Route 1b (77) - Route 1 (43)
+77,West,24,43,East,0
+# Route 1a (76) - Route 1 (43)
+76,South,0,43,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# Route 1a (76) - Route 1b (77)
+76,East,0,77,West,0
+# RTB Easter Egg (83) - Route 1a (76)
+83,South,18,76,North,0
+# Route 1b (77) - Forest Town (78)
+77,East,0,78,West,0
+# RTB Easter Egg (83) - Route 1b (77)
+83,South,50,77,North,0
+# Forest Town (78) - The Forest (86)
+78,East,2,86,West,0
+# RTB Easter Egg (83) - Forest Town (78)
+83,South,82,78,North,0
+# The Forest (86) - The Forest 2 (87)
+86,East,0,87,West,0
+# Route 2b (The Guantlet) (97) - The Forest (86)
+97,South,0,86,North,101
+# The Forest 2 (87) - Treeville (89)
+87,East,0,89,West,0
+# Route 2b (The Guantlet) (97) - The Forest 2 (87)
+97,South,0,87,North,71
+# Route 2 (The Guantlet) (96) - Treeville (89)
+96,West,0,89,East,0
+# Route 2b (The Guantlet) (97) - Treeville (89)
+97,West,45,89,East,0
+# Route 2b (The Guantlet) (97) - Route 2 (The Guantlet) (96)
+97,South,0,96,North,0
+# Connection Cave 1a (99) - Connection Cave (98)
+99,South,0,98,North,0
+# The Forest (113) - The Forest (114)
+113,East,0,114,West,0
+# The Forest (122) - The Forest (114)
+122,South,0,114,North,0
+# Forest Town2b (121) - The Forest (114)
+121,West,0,114,East,40
+# Forest Town2 (120) - The Forest (114)
+120,West,0,114,East,0
+# Small City (136) - The Forest (114)
+136,South,0,114,North,94
+# Treeville (110) - The Forest (113)
+110,East,0,113,West,0
+# The Forest (122) - The Forest (113)
+122,West,30,113,East,0
+# Small City (136) - The Forest (113)
+136,South,0,113,North,123
+# Route 1b (109) - Treeville (110)
+109,East,0,110,West,0
+# The Forest (122) - Treeville (110)
+122,South,0,110,North,69
+# Small City (136) - Treeville (110)
+136,South,0,110,North,163
+# The Last Safe Place 0.3 (101) - Route 1b (109)
+101,East,0,109,West,50
+# Route 1 (108) - Route 1b (109)
+108,North,40,109,South,0
+# Route 1a (103) - Route 1b (109)
+103,East,0,109,West,0
+# The Forest (122) - Route 1b (109)
+122,South,0,109,North,109
+# Small City (136) - Route 1b (109)
+136,South,0,109,North,203
+# Route 1 (108) - The Last Safe Place 0.3 (101)
+108,South,0,101,North,0
+# Route 1a (103) - Route 1 (108)
+103,South,0,108,North,0
+# The Forest (122) - Route 1a (103)
+122,South,0,103,North,149
+# Small City (136) - Route 1a (103)
+136,South,0,103,North,243
+# Route 2 (112) - The Forest (122)
+112,North,0,122,South,62
+# Forest Town2 (120) - The Forest (122)
+120,North,0,122,South,30
+# Route 2a (129) - The Forest (122)
+129,North,0,122,South,94
+# Route 2b (137) - The Forest (122)
+137,North,0,122,South,126
+# Forest Town2b (121) - Route 2 (112)
+121,North,32,112,South,0
+# Forest Town2 (120) - Route 2 (112)
+120,East,0,112,West,0
+# Small City (136) - Route 2 (112)
+136,West,37,112,East,0
+# Route 2a (129) - Route 2 (112)
+129,West,0,112,East,0
+# Forest Town2 (120) - Forest Town2b (121)
+120,South,0,121,North,0
+# Route 2a (129) - Forest Town2b (121)
+129,South,0,121,North,64
+# Route 2b (137) - Forest Town2b (121)
+137,South,0,121,North,96
+# Small City (136) - Forest Town2 (120)
+136,South,0,120,North,64
+# Route 2a (129) - Small City (136)
+129,North,0,136,South,0
+# Route 2b (137) - Small City (136)
+137,North,0,136,South,32
+# Route 2b (137) - Route 2a (129)
+137,West,0,129,East,0

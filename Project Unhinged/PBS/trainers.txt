@@ -275,3 +275,64 @@ LoseText = ...
 Pokemon = SPINARAK,10
 Pokemon = ROOKIDEE,11
 Pokemon = SCYTHER,12
+#-------------------------------
+[TOUGH_KID_M,Axel]
+LoseText = ...
+Pokemon = HERACROSS,10
+Pokemon = ZORUA,11
+Pokemon = PAWNIARD,12
+#-------------------------------
+[TOUGH_KID_F,Gabbi]
+LoseText = ...
+Pokemon = SWABLU,10
+Pokemon = FLABEBE,11
+Pokemon = KANGASKHAN,12
+#-------------------------------
+[DEVIL_BOY,Nicky]
+LoseText = I must recalculate.
+Pokemon = VENONAT,20
+Pokemon = SKORUPI,20
+Pokemon = CROAGUNK,20
+#-------------------------------
+[DEVIL_GIRL,Nicki]
+LoseText = I must recalculate.
+Pokemon = SALANDIT,20
+Pokemon = HOUNDOUR,20
+Pokemon = IMPIDIMP,20
+#-------------------------------
+[JUNGLE_BOY,Cameron]
+LoseText = ...
+Pokemon = CAPSAKID,10
+Pokemon = CARNIVINE,11
+Pokemon = YANMA,12
+#-------------------------------
+[JUNGLE_BOY,Craig]
+LoseText = ...
+Pokemon = MARILL,10
+Pokemon = DEDENNE,11
+Pokemon = BRAMBLIN,12
+#-------------------------------
+[SCIENTIST,Einstien]
+LoseText = I'm in no way related .
+Pokemon = NATU,20
+Pokemon = ELGYEM,20
+Pokemon = TRUBBISH,20
+#-------------------------------
+[FISHERMAN,Arnold]
+LoseText = Washed out!
+Pokemon = BUIZEL,14
+Pokemon = WOOPER,18
+#-------------------------------
+[PICNICKER,Sussie]
+LoseText = Defeated! Oh my!
+Pokemon = PURRLOIN,18
+#-------------------------------
+[CAMPER,Ronny]
+LoseText = I thought bonsly was a grass type!
+Pokemon = BULBASAUR,10
+Pokemon = BONSLY,11
+#-------------------------------
+[FISHERMAN,Oz]
+LoseText = Washed out!
+Pokemon = LOTAD,14
+Pokemon = CHEWTLE,18

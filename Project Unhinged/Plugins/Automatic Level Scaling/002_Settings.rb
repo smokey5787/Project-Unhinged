@@ -50,6 +50,6 @@ module LevelScalingSettings
   ]
 
   # The default evolution levels are used for all evolution methods that are not in the NATURAL_EVOLUTION_METHODS array
-  DEFAULT_FIRST_EVOLUTION_LEVEL = 20
-  DEFAULT_SECOND_EVOLUTION_LEVEL = 40
+  DEFAULT_FIRST_EVOLUTION_LEVEL = 25
+  DEFAULT_SECOND_EVOLUTION_LEVEL = 45
 end

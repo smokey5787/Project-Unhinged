@@ -11,7 +11,7 @@ module StarterSelSettings
   STARTERL = 5
  
 # Interface style (1 for HGSS, 2 for BW):
-  INSTYLE = 1
+  INSTYLE = 2
 
 # Background choice (1 for lab's table, 2 for grass)
   STARTERBG = 1
@@ -33,9 +33,9 @@ module StarterSelSettings
 # You can also edit the Script to change the values to something other than 31, lines: 79, 93 and 107
 
 # Item of each Starter species (nil is nothing):
-  STARTER1ITEM = nil # First Starter
-  STARTER2ITEM = nil # Second Starter
-  STARTER3ITEM = nil # Third Starter
+  STARTER1ITEM = :BERRYJUICE # First Starter
+  STARTER2ITEM = :BERRYJUICE # Second Starter
+  STARTER3ITEM = :BERRYJUICE # Third Starter
 # Use the ID of the items when defining them here, and put an : before the name. Such as :ORANBERRY
   
 # Horizontal and vertical values for editing the starter position:

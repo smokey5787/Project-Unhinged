@@ -411,6 +411,7 @@ VictoryBGM = Battle victory leader
 Name = Professor
 Gender = Male
 BaseMoney = 100
+BattleBGM = Spookymon 
 #-------------------------------
 [JUNGLE_BOY]
 Name = Jungle Boy
@@ -421,3 +422,51 @@ BaseMoney = 16
 Name = Release The Bunnies
 Gender = Male
 BaseMoney = 100
+BattleBGM = RTB-Fkn Epic Hectic
+#-------------------------------
+[COOL_KID_M]
+Name = Cool Kid
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[COOL_KID_F]
+Name = Cool Kid
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[BEACH_BOY]
+Name = Beach Boy
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[BEACH_GIRL]
+Name = Beach Girl
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[TOUGH_KID_M]
+Name = Tough Kid
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[TOUGH_KID_F]
+Name = Tough Kid
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[DEVIL_BOY]
+Name = Devil Boy
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[DEVIL_GIRL]
+Name = Devil Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[SUNGLASSES_KID_M]
+Name = Sunglasses Kid
+Gender = Male
+BaseMoney = 32

@@ -525,6 +525,7 @@ Outdoor = true
 Bicycle = true
 HealingSpot = 104,9,7
 Weather = Sandstorm,10
+BattleBack = rocky
 Environment = Rock
 #-------------------------------
 [106]   # Lab 1a
@@ -538,6 +539,7 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 104,9,8
 Weather = Sandstorm,20
+BattleBack = rocky
 Environment = Rock
 #-------------------------------
 [109]   # Route 1b
@@ -547,6 +549,7 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 104,8,8
 Weather = Sandstorm,5
+BattleBack = rocky
 Environment = Rock
 #-------------------------------
 [110]   # Treeville
@@ -555,6 +558,7 @@ Outdoor = true
 Bicycle = true
 HealingSpot = 111,9,7
 Weather = Rain,5
+Environment = None
 #-------------------------------
 [112]   # Route 2
 Name = Route 2
@@ -563,6 +567,8 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 128,9,7
 Weather = Rain,5
+BattleBack = field
+Environment = Grass
 #-------------------------------
 [113]   # The Forest
 Name = The Forest
@@ -571,6 +577,8 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 111,9,7
 Weather = Rain,20
+BattleBack = forest
+Environment = Forest
 #-------------------------------
 [114]   # The Forest
 Name = The Forest
@@ -578,9 +586,17 @@ Outdoor = true
 Bicycle = true
 HealingSpot = 111,9,6
 Weather = Rain,20
+BattleBack = forest
+Environment = Forest
 #-------------------------------
-[119]   # The Forest
-Name = The Forest
+[119]   # Water Crossroad
+Name = Waterway
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 128,9,8
+Weather = HeavyRain,5
+BattleBack = forest
 #-------------------------------
 [120]   # Forest Town2
 Name = Forest Town
@@ -596,6 +612,7 @@ Outdoor = true
 ShowArea = true
 HealingSpot = 128,9,7
 Weather = Rain,5
+BattleBack = forest
 Environment = Forest
 #-------------------------------
 [122]   # The Forest
@@ -604,32 +621,39 @@ Outdoor = true
 Bicycle = true
 HealingSpot = 111,9,7
 Weather = Rain,10
+BattleBack = forest
+Environment = Forest
 #-------------------------------
 [129]   # Route 2a
 Name = Route 2
 Outdoor = true
 Bicycle = true
 HealingSpot = 128,9,7
+BattleBack = field
+Environment = Grass
 #-------------------------------
-[130]   # Cave of Secrets
-Name = Cave of Secrets
+[130]   # Rave Cave
+Name = Rave Cave
 ShowArea = true
 Bicycle = true
 HealingSpot = 104,9,7
+BattleBack = cave1
 Environment = Volcano
 #-------------------------------
-[131]   # Cave of Secrets2
-Name = Cave of Secrets Floor 2
+[131]   # Rave Cave2
+Name = Rave Cave Floor 2
 Bicycle = true
 HealingSpot = 104,9,7
 DarkMap = true
+BattleBack = cave1
 Environment = Volcano
 #-------------------------------
-[132]   # Cave of Secrets3
-Name = Cave of Secrets Floor 2
+[132]   # Rave Cave3
+Name = Rave Cave Floor 2
 Bicycle = true
 HealingSpot = 104,9,8
 DarkMap = true
+BattleBack = cave2
 Environment = Volcano
 #-------------------------------
 [134]   # RTB-Boof
@@ -637,6 +661,7 @@ Name = Boof Party Entry
 Outdoor = true
 Bicycle = true
 HealingSpot = 104,9,8
+BattleBack = cave2
 Environment = Volcano
 #-------------------------------
 [135]   # RTB-Boof2
@@ -644,10 +669,11 @@ Name = BOOF!!!
 ShowArea = true
 Bicycle = true
 HealingSpot = 104,8,8
+BattleBack = cave2
 Environment = Cave
 #-------------------------------
-[136]   # Small City
-Name = Small City
+[136]   # Abandoned City
+Name = Abandoned City
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -659,6 +685,8 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 128,9,7
 Weather = Rain,10
+BattleBack = forest
+Environment = ForestGrass
 #-------------------------------
 [138]   # The Lab2
 Name = The Lab
@@ -668,3 +696,37 @@ ShowArea = true
 Name = Spooky's Lab
 ShowArea = true
 HealingSpot = 128,9,7
+BattleBack = elite1
+Environment = None
+#-------------------------------
+[146]   # Water Crossroad Right
+Name = Waterway East
+Outdoor = true
+Bicycle = true
+HealingSpot = 128,9,8
+Weather = HeavyRain,5
+BattleBack = forest
+#-------------------------------
+[147]   # Water Crossroad Down
+Name = The Remote Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,5
+BattleBack = forest
+#-------------------------------
+[148]   # Water Crossroad Down
+Name = The Remote Village
+Outdoor = true
+Bicycle = true
+Weather = HeavyRain,5
+BattleBack = forest
+#-------------------------------
+[149]   # Water Crossroad Right2
+Name = Waterway West
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 128,9,7
+Weather = HeavyRain,10
+BattleBack = forest

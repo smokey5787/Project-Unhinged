@@ -1,0 +1,5 @@
+Name      = Type Quiz
+Version   = 1.1.0
+Essentials = 21.1
+Website   = https://github.com/FL-/Essentials-TypeQuiz
+Credits   = FL

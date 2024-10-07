@@ -336,3 +336,8 @@ Pokemon = BONSLY,11
 LoseText = Washed out!
 Pokemon = LOTAD,14
 Pokemon = CHEWTLE,18
+#-------------------------------
+[TRENCHCOAT_M]
+LoseText = Washed out!
+Pokemon = PORYGON,14
+Pokemon = PORYGON,18

@@ -730,3 +730,6 @@ Bicycle = true
 HealingSpot = 128,9,7
 Weather = HeavyRain,10
 BattleBack = forest
+#-------------------------------
+[155]   # BOSS-room
+Name = BOSS-room

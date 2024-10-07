@@ -470,3 +470,8 @@ BaseMoney = 32
 Name = Sunglasses Kid
 Gender = Male
 BaseMoney = 32
+#-------------------------------
+[SUNGLASSES_KID_F]
+Name = Sunglasses Kid
+Gender = Female
+BaseMoney = 32

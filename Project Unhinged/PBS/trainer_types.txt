@@ -480,3 +480,28 @@ BaseMoney = 32
 Name = Trenchcoat
 Gender = Male
 BaseMoney = 32
+#-------------------------------
+[TRENCHCOAT_F]
+Name = Trenchcoat
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CRAZY_CAT_LADY]
+Name = Crazy Cat Lady
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[FIGHT_CLUB_BOSS]
+Name = Boss
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[PROFESSOR_Spooky2]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+BattleBGM = Spookymon

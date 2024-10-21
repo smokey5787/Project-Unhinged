@@ -573,13 +573,3 @@ class PokemonSystem
     return ret
   end
 end
-
-MenuHandlers.add(:pause_menu, :controls, {
-  "name"      => _INTL("Controls"),
-  "order"     => 75,
-  "effect"    => proc { |menu|
-    pbPlayDecisionSE
-    open_set_controls_ui(menu)
-    next false
-  }
-})

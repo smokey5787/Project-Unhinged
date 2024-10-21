@@ -341,3 +341,144 @@ Pokemon = CHEWTLE,18
 LoseText = Washed out!
 Pokemon = PORYGON,14
 Pokemon = PORYGON,18
+#-------------------------------
+[TRENCHCOAT_M,Reggie]
+LoseText = Washed out!
+Pokemon = QUAQUAVAL,36
+Pokemon = BLAZIKEN,36
+Pokemon = CHESNAUGHT,36
+#-------------------------------
+[TRENCHCOAT_F,Mia]
+LoseText = Washed out!
+Pokemon = POLIWRATH,36
+Pokemon = EMBOAR,36
+Pokemon = BRELOOM,36
+#-------------------------------
+[SUNGLASSES_KID_F,Trinity]
+LoseText = Washed out!
+Pokemon = MEDITITE,36
+Pokemon = SCRAGGY,36
+Pokemon = HERACROSS,36
+#-------------------------------
+[SUNGLASSES_KID_M,Neo]
+LoseText = Washed out!
+Pokemon = HAKAMOO,36
+Pokemon = CRABOMINABLE,36
+Pokemon = GALLADE,36
+#-------------------------------
+[TOUGH_KID_F,Darlene]
+LoseText = Washed out!
+Pokemon = MANKEY,36
+Pokemon = MACHOP,36
+Pokemon = MAKUHITA,36
+#-------------------------------
+[TOUGH_KID_M,Jimbo]
+LoseText = Washed out!
+Pokemon = TIMBURR,36
+Pokemon = THROH,36
+Pokemon = SAWK,36
+#-------------------------------
+[COOL_KID_F,Winnie]
+LoseText = Washed out!
+Pokemon = FLAMIGO,36
+Pokemon = CLOBBOPUS,36
+Pokemon = PAWMO,36
+#-------------------------------
+[COOL_KID_M,Jamie]
+LoseText = Washed out!
+Pokemon = STUFFUL,36
+Pokemon = HAWLUCHA,36
+Pokemon = MIENFOO,36
+#-------------------------------
+[TRENCHCOAT_M,Gareth]
+LoseText = Washed out!
+Pokemon = HERACROSS,36
+Pokemon = HAWLUCHA,36
+Pokemon = CROAGUNK,36
+#-------------------------------
+[TRENCHCOAT_F,Tabitha]
+LoseText = Washed out!
+Pokemon = SNEASLER,36
+Pokemon = KUBFU,36
+Pokemon = RIOLU,36
+#-------------------------------
+[SUNGLASSES_KID_F,Cleo]
+LoseText = Washed out!
+Pokemon = FALINKS,36
+Pokemon = INFERNAPE,36
+Pokemon = PASSIMIAN,36
+#-------------------------------
+[SUNGLASSES_KID_M,Clyde]
+LoseText = Washed out!
+Pokemon = HITMONLEE,36
+Pokemon = HITMONCHAN,36
+Pokemon = HITMONTOP,36
+#-------------------------------
+[TOUGH_KID_F,Milla]
+LoseText = Washed out!
+Pokemon = BLAZIKEN,36
+Pokemon = EMBOAR,36
+Pokemon = INFERNAPE,36
+#-------------------------------
+[TOUGH_KID_M,Otto]
+LoseText = Washed out!
+Pokemon = HITMONTOP,36
+Pokemon = MACHOP,36
+Pokemon = PAWMO,36
+#-------------------------------
+[COOL_KID_F,Paris]
+LoseText = Washed out!
+Pokemon = GALLADE,36
+Pokemon = PANCHAM,36
+Pokemon = MEDITITE,36
+#-------------------------------
+[COOL_KID_M,TONY]
+LoseText = Washed out!
+Pokemon = RIOLU,36
+Pokemon = HITMONCHAN,36
+Pokemon = MIENFOO,36
+#-------------------------------
+[TOUGH_KID_F,Lilly]
+LoseText = Washed out!
+Pokemon = MACHAMP,36
+Pokemon = HITMONLEE,36
+Pokemon = TIMBURR,36
+#-------------------------------
+[TOUGH_KID_M,Homer]
+LoseText = Washed out!
+Pokemon = HITMONTOP,36
+Pokemon = HITMONLEE,36
+Pokemon = HITMONCHAN,36
+Pokemon = MACHAMP,36
+Pokemon = MAKUHITA,36
+#-------------------------------
+[SUNGLASSES_KID_F,Cleo]
+LoseText = Washed out!
+Pokemon = QUAQUAVAL,36
+Pokemon = INFERNAPE,36
+Pokemon = CHESNAUGHT,36
+#-------------------------------
+[SUNGLASSES_KID_M,Clyde]
+LoseText = Washed out!
+Pokemon = BRELOOM,36
+Pokemon = CRABOMINABLE,36
+Pokemon = PAWMO,36
+Pokemon = POLIWRATH,36
+#-------------------------------
+[FIGHT_CLUB_BOSS,Bruce]
+LoseText = Hmph...
+Pokemon = OKIDOGI,40
+Pokemon = KORAIDON,40
+Pokemon = IRONVALIANT,40
+Pokemon = IRONHANDS,40
+Pokemon = SLITHERWING,40
+Pokemon = GREATTUSK,40
+#-------------------------------
+[PROFESSOR_Spooky2,Spooky]
+LoseText = Hmm.
+Pokemon = DITTO,40
+Pokemon = ZOROARK,40
+Pokemon = ZOROARK,40
+Pokemon = DITTO,40
+Pokemon = ZOROARK,40
+Pokemon = DITTO,40

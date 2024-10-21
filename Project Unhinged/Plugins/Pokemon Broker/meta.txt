@@ -1,0 +1,5 @@
+Name         = Pokemon Broker
+Version      = 1.1
+Essentials   = 21.1
+Website      = https://eeveeexpo.com/resources/1566/
+Credits      = Pokemon Liberator, Tsoukinator

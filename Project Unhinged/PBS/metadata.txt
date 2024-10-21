@@ -2,7 +2,7 @@
 #-------------------------------
 [0]
 StartMoney = 3000
-StartItemStorage = POTION, EXPALL, POKEMONBOXLINK, POKERADAR, OLDROD, BICYCLE
+StartItemStorage = POTION, EXPALL, POKERADAR, OLDROD, BICYCLE
 Home = 104,9,8,2
 StorageCreator = Bill
 WildBattleBGM = Battle wild

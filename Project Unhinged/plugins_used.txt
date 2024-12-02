@@ -1,0 +1,29 @@
+Deluxe Battle Kit
+    - Enhanced Battle UI (DBK)
+    - SOS Battles (DBK)
+    - Improved Item AI (DBK)
+    - Animated Pokemon System (DBK)
+Modular UI Scenes
+    - Enhanced Pokemon UI (MUI)
+    - Pokedex Data Page (MUI)
+    - Improved Field Skills (MUI)
+Achievments
+Automatic Level Scaling
+B2W2 Bag
+DiegoWT's Starter Selection
+Ekans Game
+Following Pokemon EX
+Form Trader
+Generation 9 Pack Scripts
+HGSS Save Screen
+Lin's HGSS Option Screen
+Lin's IV/EV Summary Screen
+Luka's Scripting Utilities
+NPB's Battle UI
+Pokedex Evolution Page
+Pokemon Broker
+Set The Controls
+Trade Expert
+Type Quizz
+Unreal Time
+v21.1 Hotfixes

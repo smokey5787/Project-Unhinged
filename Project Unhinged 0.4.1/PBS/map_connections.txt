@@ -1,0 +1,200 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Secret Tunnel Right 2 (145) - Secret Tunnels Right (144)
+145,W,0,144,E,0
+# FightClub-right (153) - FightClub (151)
+153,W,0,151,E,0
+# FightClub-down (154) - FightClub (151)
+154,N,0,151,S,0
+# FightClub-down (154) - FightClub-right (153)
+154,N,31,153,S,0
+# Route 2 (112) - Water Crossroad Right2 (149)
+112,S,64,149,N,0
+# Route 1b-FILL (140) - Water Crossroad Right2 (149)
+140,S,235,149,N,0
+# Water Crossroad Right (146) - Water Crossroad Right2 (149)
+146,E,0,149,W,0
+# Forest Town2 (120) - Water Crossroad Right2 (149)
+120,S,96,149,N,0
+# Route 2a (129) - Water Crossroad Right2 (149)
+129,E,40,149,W,0
+# Route 2b (137) - Water Crossroad Right2 (149)
+137,S,0,149,N,0
+# Water Crossroad Down (148) - Water Crossroad Right2 (149)
+148,N,32,149,S,0
+# Water Crossroad Down (147) - Water Crossroad Right2 (149)
+147,N,64,149,S,0
+# Water Crossroad Right2 (152) - Water Crossroad Right2 (149)
+152,W,0,149,E,0
+# Abandoned City (136) - Route 2 (112)
+136,W,37,112,E,0
+# Forest Town2b (121) - Route 2 (112)
+121,N,32,112,S,0
+# Water Crossroad (119) - Route 2 (112)
+119,N,0,112,S,0
+# Water Crossroad Right (146) - Route 2 (112)
+146,W,0,112,E,40
+# Forest Town2 (120) - Route 2 (112)
+120,E,0,112,W,0
+# The Forest (122) - Route 2 (112)
+122,S,62,112,N,0
+# Route 2a (129) - Route 2 (112)
+129,W,0,112,E,0
+# Water Crossroad Down (148) - Route 2 (112)
+148,W,0,112,E,80
+# Abandoned City (150) - Route 2 (112)
+150,S,13,112,N,0
+# Water Crossroad Right2 (152) - Route 2 (112)
+152,N,0,112,S,96
+# Route 1a (103) - Abandoned City (136)
+103,N,243,136,S,0
+# Route 1b (109) - Abandoned City (136)
+109,N,203,136,S,0
+# Treeville (110) - Abandoned City (136)
+110,N,163,136,S,0
+# The Forest (113) - Abandoned City (136)
+113,N,123,136,S,0
+# The Forest (114) - Abandoned City (136)
+114,N,94,136,S,0
+# Water Crossroad (119) - Abandoned City (136)
+119,E,0,136,W,77
+# Forest Town2 (120) - Abandoned City (136)
+120,N,64,136,S,0
+# Route 2a (129) - Abandoned City (136)
+129,N,0,136,S,0
+# Route 2b (137) - Abandoned City (136)
+137,N,0,136,S,32
+# Water Crossroad Down (147) - Abandoned City (136)
+147,E,0,136,W,117
+# Abandoned City (150) - Abandoned City (136)
+150,E,0,136,W,0
+# Route 1b (109) - Route 1a (103)
+109,W,0,103,E,0
+# Route 1b-FILL (140) - Route 1a (103)
+140,W,0,103,E,20
+# Route 1 (108) - Route 1a (103)
+108,N,0,103,S,0
+# The Forest (122) - Route 1a (103)
+122,S,0,103,N,149
+# Abandoned City (150) - Route 1a (103)
+150,S,0,103,N,198
+# The Last Safe Place 0.3 (101) - Route 1b (109)
+101,E,0,109,W,50
+# Route 1b-FILL (140) - Route 1b (109)
+140,N,0,109,S,0
+# Route 1 (108) - Route 1b (109)
+108,N,40,109,S,0
+# Treeville (110) - Route 1b (109)
+110,W,0,109,E,0
+# The Forest (122) - Route 1b (109)
+122,S,0,109,N,109
+# Abandoned City (150) - Route 1b (109)
+150,S,0,109,N,158
+# Route 1b-FILL (140) - The Last Safe Place 0.3 (101)
+140,W,30,101,E,0
+# Route 1 (108) - The Last Safe Place 0.3 (101)
+108,S,0,101,N,0
+# Water Crossroad Down (148) - The Last Safe Place 0.3 (101)
+148,N,0,101,S,243
+# Water Crossroad Down (147) - The Last Safe Place 0.3 (101)
+147,N,0,101,S,211
+# Route 1 (108) - Route 1b-FILL (140)
+108,E,0,140,W,0
+# Treeville (110) - Route 1b-FILL (140)
+110,W,20,140,E,0
+# Forest Town2b (121) - Route 1b-FILL (140)
+121,N,0,140,S,139
+# Water Crossroad (119) - Route 1b-FILL (140)
+119,N,0,140,S,171
+# Water Crossroad Right (146) - Route 1b-FILL (140)
+146,N,0,140,S,203
+# Water Crossroad Right2 (152) - Route 1b-FILL (140)
+152,N,0,140,S,267
+# The Forest (113) - Treeville (110)
+113,W,0,110,E,0
+# The Forest (122) - Treeville (110)
+122,S,0,110,N,69
+# Abandoned City (150) - Treeville (110)
+150,S,0,110,N,118
+# The Forest (114) - The Forest (113)
+114,W,0,113,E,0
+# The Forest (122) - The Forest (113)
+122,W,30,113,E,0
+# Abandoned City (150) - The Forest (113)
+150,S,0,113,N,78
+# Forest Town2b (121) - The Forest (114)
+121,W,0,114,E,40
+# Forest Town2 (120) - The Forest (114)
+120,W,0,114,E,0
+# The Forest (122) - The Forest (114)
+122,S,0,114,N,0
+# Abandoned City (150) - The Forest (114)
+150,S,0,114,N,49
+# Water Crossroad (119) - Forest Town2b (121)
+119,W,0,121,E,0
+# Forest Town2 (120) - Forest Town2b (121)
+120,S,0,121,N,0
+# Route 2a (129) - Forest Town2b (121)
+129,S,0,121,N,64
+# Route 2b (137) - Forest Town2b (121)
+137,S,0,121,N,96
+# Water Crossroad Down (147) - Forest Town2b (121)
+147,W,0,121,E,40
+# Water Crossroad Right (146) - Water Crossroad (119)
+146,W,0,119,E,0
+# Forest Town2 (120) - Water Crossroad (119)
+120,E,40,119,W,0
+# Route 2a (129) - Water Crossroad (119)
+129,W,40,119,E,0
+# Route 2b (137) - Water Crossroad (119)
+137,S,0,119,N,64
+# Water Crossroad Down (148) - Water Crossroad (119)
+148,W,0,119,E,40
+# Water Crossroad Down (147) - Water Crossroad (119)
+147,N,0,119,S,0
+# Forest Town2 (120) - Water Crossroad Right (146)
+120,S,64,146,N,0
+# Route 2a (129) - Water Crossroad Right (146)
+129,S,0,146,N,0
+# Route 2b (137) - Water Crossroad Right (146)
+137,W,40,146,E,0
+# Water Crossroad Down (148) - Water Crossroad Right (146)
+148,N,0,146,S,0
+# Water Crossroad Down (147) - Water Crossroad Right (146)
+147,N,32,146,S,0
+# Abandoned City (150) - Water Crossroad Right (146)
+150,E,77,146,W,0
+# The Forest (122) - Forest Town2 (120)
+122,S,30,120,N,0
+# Water Crossroad Down (147) - Forest Town2 (120)
+147,W,0,120,E,80
+# Abandoned City (150) - Forest Town2 (120)
+150,S,0,120,N,19
+# Water Crossroad Right2 (152) - Forest Town2 (120)
+152,N,0,120,S,128
+# Route 2a (129) - The Forest (122)
+129,N,0,122,S,94
+# Route 2b (137) - The Forest (122)
+137,N,0,122,S,126
+# Route 2b (137) - Route 2a (129)
+137,W,0,129,E,0
+# Water Crossroad Down (147) - Route 2a (129)
+147,E,0,129,W,80
+# Abandoned City (150) - Route 2a (129)
+150,E,37,129,W,0
+# Water Crossroad Right2 (152) - Route 2a (129)
+152,N,0,129,S,64
+# Water Crossroad Down (148) - Route 2b (137)
+148,E,0,137,W,80
+# Abandoned City (150) - Route 2b (137)
+150,S,77,137,N,0
+# Water Crossroad Right2 (152) - Route 2b (137)
+152,W,0,137,E,40
+# Water Crossroad Down (147) - Water Crossroad Down (148)
+147,E,0,148,W,0
+# Abandoned City (150) - Water Crossroad Down (148)
+150,E,117,148,W,0
+# Water Crossroad Right2 (152) - Water Crossroad Down (148)
+152,S,0,148,N,64
+# Water Crossroad Right2 (152) - Water Crossroad Down (147)
+152,S,0,147,N,96

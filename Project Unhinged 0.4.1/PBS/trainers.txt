@@ -8,18 +8,18 @@ Pokemon = BONSLY,11
 [LEADER_Tarzan,Tarzan]
 Items = SUPERPOTION
 LoseText = Very good.
-Pokemon = MANKEY,12
+Pokemon = MANKEY,20
     Gender = male
-Pokemon = AIPOM,14
+Pokemon = AIPOM,20
     Gender = female
-Pokemon = CHIMCHAR,13
+Pokemon = CHIMCHAR,20
     Item = SITRUSBERRY
     Gender = male
-Pokemon = GROOKEY,14
+Pokemon = GROOKEY,20
     Gender = male
-Pokemon = ORANGURU,13
+Pokemon = ORANGURU,20
     Gender = female
-Pokemon = ZARUDE,15
+Pokemon = ZARUDE,20
     Gender = male
 #-------------------------------
 [TEAMROCKET_M,Grunt,1]
@@ -179,12 +179,12 @@ Pokemon = RATTATA,6
 [TRAINER_Pascoe,Pascoe]
 Items = FULLRESTORE
 LoseText = Don't forget to check out my other music.
-Pokemon = AZUMARILL,15
-Pokemon = LOPUNNY,15
-Pokemon = DIGGERSBY,15
-Pokemon = CINDERACE,15
-Pokemon = EXPLOUD,15
-Pokemon = MAGEARNA,15
+Pokemon = AZUMARILL,20
+Pokemon = LOPUNNY,20
+Pokemon = DIGGERSBY,20
+Pokemon = CINDERACE,20
+Pokemon = EXPLOUD,20
+Pokemon = MAGEARNA,20
 #-------------------------------
 [HIKER,Henry]
 LoseText = I crumbled.
